@@ -1,0 +1,7 @@
+﻿  LabZIRSA.cpp
+C:\Users\Orest\source\repos\LabZIRSA\LabZIRSA.cpp(83,77): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Orest\source\repos\LabZIRSA\LabZIRSA.cpp(85,548): warning C4244: 'argument': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+C:\Users\Orest\source\repos\LabZIRSA\LabZIRSA.cpp(131,71): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Orest\source\repos\LabZIRSA\LabZIRSA.cpp(159,67): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\Orest\source\repos\LabZIRSA\LabZIRSA.cpp(159,551): warning C4244: 'argument': conversion from 'unsigned __int64' to 'DWORD', possible loss of data
+  LabZIRSA.vcxproj -> C:\Users\Orest\source\repos\LabZIRSA\Debug\LabZIRSA.exe

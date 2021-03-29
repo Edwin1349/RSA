@@ -1,0 +1,2 @@
+C:\Users\Orest\source\repos\LabZIRSA\Debug\LabZIRSA.exe
+C:\Users\Orest\source\repos\LabZIRSA\Debug\LabZIRSA.pdb
